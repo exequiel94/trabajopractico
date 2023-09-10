@@ -1,0 +1,23 @@
+body {
+    background-color:bisque
+}
+
+h1 {
+    color: darkcyan;
+}
+
+h2{
+    color: midnightblue;
+}
+
+p { 
+    color: steelblue;
+}
+
+li {
+    color: crimson;
+}
+
+form {
+    color: navy;
+}
